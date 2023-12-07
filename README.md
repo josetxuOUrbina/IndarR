@@ -1,7 +1,7 @@
 # IndarR
 Logo-sorgailuaren funtzionamendua egiaztatzea...
 
-![imagen](logo_1_20230706-1.png)
+![imagen](indar_8_gardena.png)
 
 ## Etorkizuneko proiektu baterako proba-materiala.
 
@@ -12,7 +12,7 @@ Logo-sorgailuaren funtzionamendua egiaztatzea...
 * ...
 
 
-![imagen](logo_3_20230706-1.png)
+![imagen](indar_8_gardena.png)
 
 
 ```
