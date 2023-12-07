@@ -12,7 +12,7 @@ Logo-sorgailuaren funtzionamendua egiaztatzea...
 * ...
 
 
-![imagen](logo3.png)
+![imagen](logo6.png)
 
 
 ```
