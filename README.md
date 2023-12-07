@@ -3,7 +3,7 @@ Logo-sorgailuaren funtzionamendua egiaztatzea...
 
 ![imagen](indar_8_gardena.png)
 
-<img src="logo3_2.png" width="350">
+<img src="logo3_2.png" width="300">
 
 ## Etorkizuneko proiektu baterako proba-materiala.
 
