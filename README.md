@@ -12,7 +12,7 @@ Logo-sorgailuaren funtzionamendua egiaztatzea...
 * ...
 
 
-![imagen](indar_8_gardena.png)
+![imagen](logo3.png)
 
 
 ```
