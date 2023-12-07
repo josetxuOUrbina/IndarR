@@ -18,4 +18,4 @@ Logo-sorgailuaren funtzionamendua egiaztatzea...
 ```
 Bada modu sinple bat gaixoari jakinarazteko.
 ```
-![imagen](logo3_2.png)
+<img src="logo3_2.png" width="50">
